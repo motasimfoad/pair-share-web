@@ -1,0 +1,10 @@
+.bg{
+    background: url('http://blog.hostbaby.com/wp-content/uploads/2014/03/Trees_1920x1234.png') no-repeat center center fixed #000; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    min-height: 891px;
+ }
+      
+      
