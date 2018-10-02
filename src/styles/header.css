@@ -1,0 +1,51 @@
+.formContainer{
+    background: red;
+    width: 100%;
+}
+.container{
+width: 100%;
+background: rgba(224, 210, 210, 0.685);
+}
+.header{
+    width: 75%;
+    text-align: center;
+}
+.left{
+width: 75%;
+background: rgb(93, 155, 150);
+float: left;
+
+}
+.profilepic{
+    width:20%;
+    height: 150px;
+    background: rgb(199, 201, 202);
+    float: left;
+    border-radius: 50%;
+}
+.share{
+    height: 70px;
+    float: right;
+}
+.shareicon{
+
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+.personOne{
+    width:10%;
+    height: 70px;
+    background:rgb(199, 201, 202);
+    float: right; 
+    border-radius: 50%;
+}
+
+.right{
+    width: 25%;
+    height: 1000px;
+    background: gray;
+    float: right;
+}
+.name{
+    width: 75%;
+}

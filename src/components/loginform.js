@@ -38,6 +38,7 @@ class loginform extends Component {
             </Col>
         </FormGroup>
         </Form>
+       <small>Or Create a new account </small> <Button type="submit">Register</Button>
       </div>
      
     );

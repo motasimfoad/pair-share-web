@@ -1,0 +1,53 @@
+.formContainer{
+    background: rgba(255, 255, 255, 0.705);
+    width: 40%;  
+    padding-left: 2%;
+    padding-right: 2%;  
+}
+
+.form{
+    width: 100%;
+    margin: 0 auto;
+  
+}
+.loginalternative{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.loginwith{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fb { 
+    background : #2980b9;
+    color: white ; 
+    width: 50%;
+}
+
+.fb:hover {
+background:#3498db; 
+color: white ; 
+width: 50%;
+}
+
+.google{
+    background:#c0392b;
+    color: white ; 
+    width: 50%;
+}
+.google:hover {
+    background:#e74c3c; 
+    color: white ; 
+    width: 50%;
+    }
+
+

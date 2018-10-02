@@ -1,0 +1,13 @@
+.show-grid{
+    width: 75%;
+    height: 200px;
+    padding-top: 5%;
+}
+
+.bio{
+    color: aliceblue;
+    background-color: black;
+    height: 150px;
+    width: 25%;
+
+}
