@@ -1,0 +1,36 @@
+.container{
+width: 100%;
+background: rgba(224, 210, 210, 0);
+
+}
+
+.nav-center {  
+    width: 75%;
+    text-align: center;
+
+}
+.nav {
+    display: inline-block;
+    background:rgb(167, 190, 199);
+    width: 50%;
+    text-align: center;
+    
+}
+.tasklist{
+text-align: left;
+}
+.done{
+    text-decoration: line-through;
+}
+.first{
+    position: absolute;
+    right: 52%;
+}
+.second{
+    position: absolute;
+    right: 50%;
+}
+.third{
+    position: absolute;
+    right: 47%; 
+}

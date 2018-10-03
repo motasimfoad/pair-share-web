@@ -18,7 +18,7 @@ float: left;
 
 }
 .profilepic{
-    width:20%;
+    width:150px;
     height: 150px;
     background: rgb(199, 201, 202);
     float: left;
@@ -34,7 +34,7 @@ float: left;
     padding-bottom: 0px;
 }
 .personOne{
-    width:10%;
+    width:70px;
     height: 70px;
     background:rgb(199, 201, 202);
     float: right; 
@@ -43,7 +43,7 @@ float: left;
 
 .right{
     width: 25%;
-    height: 1000px;
+    height: 400px;
     background: gray;
     float: right;
 }

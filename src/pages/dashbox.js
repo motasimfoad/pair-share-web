@@ -1,12 +1,14 @@
 import React, { Component } from 'react';
-import Header from '../components/header';
+import Tasktabs from '../components/tasktabs';
+// import Header from '../components/header';
 import '../styles/dashbox.css';
 
 class dashbox extends Component {
   render() {
     return (
       <div className="mainFormContainer">
-         <Header className="formContainer"/>
+         {/* < Header className="formContainer"/> */}
+         <Tasktabs className="formContainer"/>
       </div>
       
     );
