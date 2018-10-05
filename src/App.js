@@ -9,7 +9,7 @@ library.add(faStroopwafel)
 class App extends Component {
   render() {
     return (
-      <div className ="">
+      <div className ="bg">
         < Dashbox />
         
       </div>
